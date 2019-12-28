@@ -8,8 +8,8 @@ Packet sniffer utility written in C
 ## Output example
 
      ETHERNET HEADER:
-	|-Source Address : 94-65-2D-E9-FD-A1
-	|-Destination Address : FD-A1-A6-86-E1-6F
+	|-Source Address : 95-25-23-E9-FD-A1
+	|-Destination Address : FA-A3-A7-96-E1-6F
 	|-Protocol : 0x800		IPv4 Protocol
 
 	IPv4 HEADER:
