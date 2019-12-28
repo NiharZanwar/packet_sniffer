@@ -1,4 +1,5 @@
-# packet_sniffer
+# Packet Sniffer, wireshark like utility
+
 Packet sniffer utility written in C
 
 - Captures Ethernet headers
